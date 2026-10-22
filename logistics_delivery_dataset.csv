@@ -1,0 +1,504 @@
+Order_ID,Order_Date,Warehouse,Distance,Delivery_Time,Vehicle_Type,Fuel_Used,Delivery_Status
+ORD1000,2025-01-01,Hyderabad_WH1,11.35,50.7,Mini_Van,0.81,Delayed
+ORD1001,2025-01-01,Coimbatore_WH1,50.81,130.5,Truck_Small,6.35,On Time
+ORD1002,2025-01-01,Bangalore_WH1,6.9,46.8,Bike,0.17,On Time
+ORD1003,2025-01-01,Coimbatore_WH1,136.05,319.4,Truck_Large,27.21,On Time
+ORD1004,2025-01-02,Coimbatore_WH1,33.61,77.2,Mini_Van,2.4,On Time
+ORD1005,2025-01-02,Chennai_WH2,5.79,40.0,Bike,0.14,On Time
+ORD1006,2025-01-02,Bangalore_WH1,53.73,133.9,Truck_Large,10.75,On Time
+ORD1007,2025-01-02,Bangalore_WH1,6.32,25.2,Bike,0.16,On Time
+ORD1008,2025-01-03,Bangalore_WH1,9.26,40.8,Bike,0.23,On Time
+ORD1009,2025-01-03,Coimbatore_WH1,54.85,136.9,Truck_Large,10.97,On Time
+ORD1010,2025-01-03,Hyderabad_WH1,101.14,354.3,Truck_Large,20.23,Delayed
+ORD1011,2025-01-03,Bangalore_WH1,19.33,62.5,Mini_Van,1.38,Cancelled
+ORD1012,2025-01-04,Coimbatore_WH1,24.32,74.6,Mini_Van,1.74,On Time
+ORD1013,2025-01-04,Chennai_WH2,20.26,57.5,Mini_Van,1.45,Cancelled
+ORD1014,2025-01-04,Hyderabad_WH1,5.12,32.2,Bike,0.13,On Time
+ORD1015,2025-01-04,Chennai_WH2,14.28,36.5,Bike,0.36,On Time
+ORD1016,2025-01-05,Hyderabad_WH1,63.45,157.3,Truck_Small,7.93,On Time
+ORD1017,2025-01-05,Coimbatore_WH1,19.81,63.3,Truck_Small,2.48,On Time
+ORD1018,2025-01-05,Chennai_WH1,70.79,268.4,Truck_Small,8.85,Delayed
+ORD1019,2025-01-05,Hyderabad_WH1,44.12,140.9,Truck_Small,5.52,Delayed
+ORD1020,2025-01-06,Chennai_WH2,13.52,75.3,Bike,0.34,On Time
+ORD1021,2025-01-06,Coimbatore_WH1,32.99,74.6,Mini_Van,2.36,On Time
+ORD1022,2025-01-06,Hyderabad_WH1,6.95,36.6,Bike,0.17,On Time
+ORD1023,2025-01-06,Chennai_WH1,5.79,27.3,Mini_Van,0.41,On Time
+ORD1024,2025-01-07,Chennai_WH1,14.4,43.6,Mini_Van,1.03,On Time
+ORD1025,2025-01-07,Bangalore_WH1,90.41,200.5,Truck_Large,18.08,On Time
+ORD1026,2025-01-07,Bangalore_WH1,27.17,83.0,Mini_Van,1.94,Delayed
+ORD1027,2025-01-07,Chennai_WH2,4.61,43.0,Bike,0.12,Cancelled
+ORD1028,2025-01-08,Hyderabad_WH1,2.95,30.7,Bike,0.07,On Time
+ORD1029,2025-01-08,Hyderabad_WH1,68.45,234.2,Truck_Small,8.56,Delayed
+ORD1030,2025-01-08,Bangalore_WH1,39.45,88.7,Mini_Van,2.82,On Time
+ORD1031,2025-01-08,Hyderabad_WH1,8.36,51.6,Bike,0.21,On Time
+ORD1032,2025-01-09,Hyderabad_WH1,3.4,37.0,Bike,0.08,On Time
+ORD1033,2025-01-09,Chennai_WH1,29.06,88.5,Truck_Small,3.63,On Time
+ORD1034,2025-01-09,Bangalore_WH1,1.26,37.0,Bike,0.03,Cancelled
+ORD1035,2025-01-09,Coimbatore_WH1,74.0,166.6,Truck_Small,9.25,On Time
+ORD1036,2025-01-10,Bangalore_WH1,18.24,67.8,Truck_Small,2.28,On Time
+ORD1037,2025-01-10,Coimbatore_WH1,9.07,55.6,Bike,0.23,On Time
+ORD1038,2025-01-10,Chennai_WH1,4.84,31.0,Bike,0.12,On Time
+ORD1039,2025-01-10,Chennai_WH2,92.04,326.7,Truck_Large,18.41,Delayed
+ORD1040,2025-01-11,Hyderabad_WH1,27.8,72.0,Mini_Van,1.99,On Time
+ORD1041,2025-01-11,Chennai_WH1,34.04,77.4,Mini_Van,2.43,On Time
+ORD1042,2025-01-11,Hyderabad_WH1,24.45,82.7,Truck_Small,3.06,On Time
+ORD1043,2025-01-11,Chennai_WH2,21.43,56.7,Truck_Large,4.29,On Time
+ORD1044,2025-01-12,Chennai_WH2,37.8,95.5,Truck_Large,7.56,On Time
+ORD1045,2025-01-12,Chennai_WH1,73.0,163.1,Truck_Small,9.12,On Time
+ORD1046,2025-01-12,Chennai_WH2,35.59,86.9,Mini_Van,2.54,On Time
+ORD1047,2025-01-12,Coimbatore_WH1,9.36,61.2,Bike,0.23,Delayed
+ORD1048,2025-01-13,Chennai_WH2,52.04,185.4,Truck_Small,6.5,Delayed
+ORD1049,2025-01-13,Hyderabad_WH1,28.28,125.0,Mini_Van,2.02,Delayed
+ORD1050,2025-01-13,Hyderabad_WH1,11.14,46.1,Mini_Van,0.8,On Time
+ORD1051,2025-01-13,Hyderabad_WH1,138.87,321.7,Truck_Large,27.77,On Time
+ORD1052,2025-01-14,Hyderabad_WH1,6.86,30.3,Bike,0.17,On Time
+ORD1053,2025-01-14,Coimbatore_WH1,18.41,93.4,Mini_Van,1.32,Delayed
+ORD1054,2025-01-14,Bangalore_WH1,8.26,50.9,Bike,0.21,On Time
+ORD1055,2025-01-14,Chennai_WH1,6.64,24.3,Mini_Van,0.47,On Time
+ORD1056,2025-01-15,Hyderabad_WH1,3.33,38.7,Bike,0.08,On Time
+ORD1057,2025-01-15,Chennai_WH2,11.33,50.7,Bike,0.28,On Time
+ORD1058,2025-01-15,Hyderabad_WH1,2.16,31.1,Bike,0.05,On Time
+ORD1059,2025-01-15,Chennai_WH2,26.11,76.4,Mini_Van,1.86,On Time
+ORD1060,2025-01-16,Chennai_WH2,27.17,95.7,Truck_Small,3.4,Delayed
+ORD1061,2025-01-16,Hyderabad_WH1,18.63,56.9,Mini_Van,1.33,On Time
+ORD1062,2025-01-16,Coimbatore_WH1,57.53,147.8,Truck_Large,11.51,On Time
+ORD1063,2025-01-16,Chennai_WH2,17.45,46.4,Mini_Van,1.25,On Time
+ORD1064,2025-01-17,Chennai_WH2,11.07,44.9,Bike,0.28,On Time
+ORD1065,2025-01-17,Hyderabad_WH1,58.63,142.2,Truck_Large,11.73,On Time
+ORD1066,2025-01-17,Chennai_WH2,,80.9,Bike,0.22,Delayed
+ORD1067,2025-01-17,Chennai_WH2,81.89,198.4,Truck_Large,16.38,On Time
+ORD1068,2025-01-18,Hyderabad_WH1,10.29,52.8,Bike,0.26,Delayed
+ORD1069,2025-01-18,Hyderabad_WH1,141.79,300.6,Truck_Large,28.36,On Time
+ORD1070,2025-01-18,Chennai_WH1,11.26,35.6,Bike,0.28,On Time
+ORD1071,2025-01-18,Coimbatore_WH1,47.94,192.2,Truck_Large,9.59,Delayed
+ORD1072,2025-01-19,Coimbatore_WH1,6.09,46.7,Mini_Van,0.44,On Time
+ORD1073,2025-01-19,Chennai_WH2,54.09,137.0,Truck_Large,10.82,On Time
+ORD1074,2025-01-19,Coimbatore_WH1,9.33,35.7,Bike,0.23,On Time
+ORD1075,2025-01-19,Chennai_WH2,6.8,52.0,Mini_Van,0.49,On Time
+ORD1076,2025-01-20,Chennai_WH1,84.53,268.6,Truck_Large,16.91,Delayed
+ORD1077,2025-01-20,Hyderabad_WH1,25.89,69.4,Mini_Van,1.85,On Time
+ORD1078,2025-01-20,Hyderabad_WH1,16.7,46.4,Mini_Van,1.19,Delayed
+ORD1079,2025-01-20,Hyderabad_WH1,63.96,295.5,Truck_Small,8.0,Delayed
+ORD1080,2025-01-21,Coimbatore_WH1,8.73,33.2,Mini_Van,0.62,On Time
+ORD1081,2025-01-21,Chennai_WH1,7.63,26.5,Mini_Van,0.55,Delayed
+ORD1082,2025-01-21,Coimbatore_WH1,30.49,90.1,Mini_Van,2.18,On Time
+ORD1083,2025-01-21,Coimbatore_WH1,84.41,223.8,Truck_Large,16.88,Cancelled
+ORD1084,2025-01-22,Chennai_WH1,10.64,59.3,Bike,0.27,On Time
+ORD1085,2025-01-22,Chennai_WH1,7.09,34.8,Bike,0.18,On Time
+ORD1086,2025-01-22,Chennai_WH1,52.03,143.9,Truck_Large,10.41,On Time
+ORD1087,2025-01-22,Chennai_WH1,126.48,296.4,Truck_Large,25.3,On Time
+ORD1088,2025-01-23,Hyderabad_WH1,,75.9,Mini_Van,2.36,On Time
+ORD1089,2025-01-23,Bangalore_WH1,29.31,84.4,Mini_Van,2.09,Delayed
+ORD1090,2025-01-23,Bangalore_WH1,4.81,33.6,Bike,0.12,On Time
+ORD1091,2025-01-23,Chennai_WH1,9.26,42.3,Bike,0.23,On Time
+ORD1092,2025-01-24,Bangalore_WH1,17.63,77.7,Mini_Van,1.26,Delayed
+ORD1093,2025-01-24,Bangalore_WH1,8.21,39.6,Mini_Van,0.59,On Time
+ORD1094,2025-01-24,Chennai_WH1,37.11,61.7,Mini_Van,2.65,Cancelled
+ORD1095,2025-01-24,Bangalore_WH1,2.92,49.8,Bike,0.07,Delayed
+ORD1096,2025-01-25,Coimbatore_WH1,143.53,313.4,Truck_Large,28.71,Cancelled
+ORD1097,2025-01-25,Chennai_WH2,77.98,301.1,Truck_Large,15.6,Delayed
+ORD1098,2025-01-25,Chennai_WH2,22.96,73.7,Truck_Small,2.87,On Time
+ORD1099,2025-01-25,Chennai_WH1,23.97,73.0,Mini_Van,1.71,On Time
+ORD1100,2025-01-26,Hyderabad_WH1,13.22,90.8,Bike,0.33,Delayed
+ORD1101,2025-01-26,Chennai_WH1,61.26,126.2,Truck_Small,7.66,On Time
+ORD1102,2025-01-26,Hyderabad_WH1,66.46,144.4,Truck_Small,8.31,On Time
+ORD1103,2025-01-26,Chennai_WH2,10.22,58.5,Bike,0.26,On Time
+ORD1104,2025-01-27,Chennai_WH1,110.0,247.0,Truck_Large,22.0,Cancelled
+ORD1105,2025-01-27,Coimbatore_WH1,69.44,154.2,Truck_Small,8.68,On Time
+ORD1106,2025-01-27,Bangalore_WH1,52.46,136.7,Truck_Large,10.49,On Time
+ORD1107,2025-01-27,Hyderabad_WH1,44.26,107.3,Truck_Small,5.53,On Time
+ORD1108,2025-01-28,Bangalore_WH1,12.74,39.4,Mini_Van,0.91,On Time
+ORD1109,2025-01-28,Bangalore_WH1,39.57,70.6,Mini_Van,2.83,On Time
+ORD1110,2025-01-28,Chennai_WH1,142.73,325.3,Truck_Large,28.55,On Time
+ORD1111,2025-01-28,Bangalore_WH1,25.13,82.9,Truck_Large,5.03,On Time
+ORD1112,2025-01-29,Coimbatore_WH1,10.88,33.2,Bike,0.27,Delayed
+ORD1113,2025-01-29,Bangalore_WH1,,51.8,Bike,0.35,On Time
+ORD1114,2025-01-29,Chennai_WH1,11.32,57.2,Mini_Van,0.81,Delayed
+ORD1115,2025-01-29,Coimbatore_WH1,49.76,172.3,Truck_Small,6.22,Delayed
+ORD1116,2025-01-30,Chennai_WH2,139.01,318.7,Truck_Large,27.8,On Time
+ORD1117,2025-01-30,Bangalore_WH1,1.48,39.4,Bike,0.04,On Time
+ORD1118,2025-01-30,Chennai_WH1,29.41,74.4,Mini_Van,2.1,On Time
+ORD1119,2025-01-30,Chennai_WH2,15.41,74.4,Mini_Van,1.1,Delayed
+ORD1120,2025-01-31,Chennai_WH2,140.17,318.4,Truck_Large,28.03,On Time
+ORD1121,2025-01-31,Hyderabad_WH1,77.97,187.1,Truck_Small,9.75,On Time
+ORD1122,2025-01-31,Coimbatore_WH1,76.1,172.0,Truck_Small,9.51,On Time
+ORD1123,2025-01-31,Bangalore_WH1,21.6,66.9,Mini_Van,1.54,On Time
+ORD1124,2025-02-01,Chennai_WH1,35.17,77.4,Mini_Van,2.51,On Time
+ORD1125,2025-02-01,Hyderabad_WH1,12.82,38.0,Bike,0.32,On Time
+ORD1126,2025-02-01,Coimbatore_WH1,5.47,42.0,Bike,0.14,Delayed
+ORD1127,2025-02-01,Hyderabad_WH1,127.76,304.3,Truck_Large,25.55,On Time
+ORD1128,2025-02-02,Coimbatore_WH1,12.59,39.0,Truck_Small,1.57,On Time
+ORD1129,2025-02-02,Coimbatore_WH1,97.52,214.8,Truck_Large,19.5,On Time
+ORD1130,2025-02-02,Bangalore_WH1,49.9,184.1,Truck_Large,9.98,Delayed
+ORD1131,2025-02-02,Coimbatore_WH1,9.22,50.1,Mini_Van,0.66,On Time
+ORD1132,2025-02-03,Hyderabad_WH1,15.39,62.6,Truck_Small,1.92,Delayed
+ORD1133,2025-02-03,Coimbatore_WH1,110.52,273.6,Truck_Large,22.1,On Time
+ORD1134,2025-02-03,Bangalore_WH1,33.79,77.8,Truck_Small,4.22,On Time
+ORD1135,2025-02-03,Bangalore_WH1,11.15,51.8,Bike,0.28,On Time
+ORD1136,2025-02-04,Hyderabad_WH1,7.29,29.7,Mini_Van,0.52,On Time
+ORD1137,2025-02-04,Chennai_WH2,5.41,50.4,Bike,0.14,On Time
+ORD1138,2025-02-04,Chennai_WH2,90.13,199.7,Truck_Large,18.03,On Time
+ORD1139,2025-02-04,Coimbatore_WH1,32.68,104.5,Mini_Van,2.33,Delayed
+ORD1140,2025-02-05,Chennai_WH1,5.46,28.8,Bike,0.14,On Time
+ORD1141,2025-02-05,Coimbatore_WH1,53.81,127.0,Truck_Small,6.73,On Time
+ORD1142,2025-02-05,Hyderabad_WH1,36.01,83.3,Mini_Van,2.57,On Time
+ORD1143,2025-02-05,Hyderabad_WH1,26.56,73.3,Mini_Van,1.9,On Time
+ORD1144,2025-02-06,Hyderabad_WH1,4.26,38.0,Bike,0.11,On Time
+ORD1145,2025-02-06,Hyderabad_WH1,11.71,47.6,Truck_Small,1.46,On Time
+ORD1146,2025-02-06,Hyderabad_WH1,35.45,94.3,Mini_Van,2.53,On Time
+ORD1147,2025-02-06,Bangalore_WH1,11.49,64.0,Truck_Small,1.44,On Time
+ORD1148,2025-02-07,Chennai_WH2,35.61,71.8,Mini_Van,2.54,On Time
+ORD1149,2025-02-07,Hyderabad_WH1,88.76,207.4,Truck_Large,17.75,On Time
+ORD1150,2025-02-07,Chennai_WH1,37.87,87.6,Mini_Van,2.7,On Time
+ORD1151,2025-02-07,Chennai_WH1,32.96,98.3,Mini_Van,2.35,On Time
+ORD1152,2025-02-08,Chennai_WH1,149.73,326.6,Truck_Large,29.95,Cancelled
+ORD1153,2025-02-08,Chennai_WH1,17.27,61.7,Mini_Van,1.23,On Time
+ORD1154,2025-02-08,Bangalore_WH1,11.74,60.8,Bike,0.29,On Time
+ORD1155,2025-02-08,Chennai_WH1,6.63,38.8,Bike,0.17,On Time
+ORD1156,2025-02-09,Hyderabad_WH1,43.59,180.2,Truck_Small,5.45,Delayed
+ORD1157,2025-02-09,Coimbatore_WH1,26.96,133.3,Mini_Van,1.93,Delayed
+ORD1158,2025-02-09,Chennai_WH1,71.16,168.8,Truck_Small,8.9,On Time
+ORD1159,2025-02-09,Bangalore_WH1,14.78,46.1,Bike,0.37,Cancelled
+ORD1160,2025-02-10,Bangalore_WH1,11.76,42.0,Bike,0.29,On Time
+ORD1161,2025-02-10,Chennai_WH1,6.85,19.2,Bike,0.17,On Time
+ORD1162,2025-02-10,Coimbatore_WH1,19.75,94.9,Mini_Van,1.41,Delayed
+ORD1163,2025-02-10,Chennai_WH1,30.82,96.6,Mini_Van,2.2,Delayed
+ORD1164,2025-02-11,Bangalore_WH1,13.36,38.8,Mini_Van,0.95,On Time
+ORD1165,2025-02-11,Chennai_WH2,8.87,36.2,Mini_Van,0.63,On Time
+ORD1166,2025-02-11,Hyderabad_WH1,66.1,159.4,Truck_Large,13.22,On Time
+ORD1167,2025-02-11,Bangalore_WH1,5.02,27.8,Bike,0.13,On Time
+ORD1168,2025-02-12,Chennai_WH1,15.37,74.5,Mini_Van,1.1,Delayed
+ORD1169,2025-02-12,Hyderabad_WH1,26.35,85.5,Truck_Small,3.29,On Time
+ORD1170,2025-02-12,Chennai_WH1,6.47,5.5,Mini_Van,0.46,On Time
+ORD1171,2025-02-12,Chennai_WH1,5.63,41.9,Mini_Van,0.4,On Time
+ORD1172,2025-02-13,Chennai_WH2,148.4,352.4,Truck_Large,29.68,On Time
+ORD1173,2025-02-13,Hyderabad_WH1,75.61,168.4,Truck_Large,15.12,On Time
+ORD1174,2025-02-13,Hyderabad_WH1,6.38,55.3,Bike,0.16,On Time
+ORD1175,2025-02-13,Chennai_WH2,108.35,251.2,Truck_Large,21.67,Cancelled
+ORD1176,2025-02-14,Bangalore_WH1,12.64,77.1,Mini_Van,0.9,Delayed
+ORD1177,2025-02-14,Chennai_WH1,14.3,46.1,Bike,0.36,On Time
+ORD1178,2025-02-14,Coimbatore_WH1,32.52,140.6,Mini_Van,2.32,Delayed
+ORD1179,2025-02-14,Chennai_WH1,31.62,155.3,Truck_Large,6.32,Delayed
+ORD1180,2025-02-15,Chennai_WH1,19.62,69.9,Mini_Van,1.4,Delayed
+ORD1181,2025-02-15,Bangalore_WH1,13.31,39.4,Bike,0.33,On Time
+ORD1182,2025-02-15,Chennai_WH1,38.07,76.9,Mini_Van,2.72,On Time
+ORD1183,2025-02-15,Chennai_WH2,7.54,26.2,Bike,0.19,On Time
+ORD1184,2025-02-16,Chennai_WH2,9.59,38.2,Bike,0.24,On Time
+ORD1185,2025-02-16,Hyderabad_WH1,3.34,22.8,Bike,0.08,On Time
+ORD1186,2025-02-16,Coimbatore_WH1,14.88,45.8,Bike,0.37,On Time
+ORD1187,2025-02-16,Chennai_WH1,4.24,36.1,Bike,0.11,On Time
+ORD1188,2025-02-17,Chennai_WH1,14.2,107.9,Bike,0.36,Delayed
+ORD1189,2025-02-17,Bangalore_WH1,27.74,63.4,Mini_Van,1.98,On Time
+ORD1190,2025-02-17,Chennai_WH2,9.51,42.1,Bike,0.24,On Time
+ORD1191,2025-02-17,Coimbatore_WH1,8.18,44.1,Bike,0.2,Cancelled
+ORD1192,2025-02-18,Hyderabad_WH1,49.99,140.2,Truck_Large,10.0,Cancelled
+ORD1193,2025-02-18,Chennai_WH2,11.18,69.7,Mini_Van,0.8,Delayed
+ORD1194,2025-02-18,Hyderabad_WH1,25.43,97.3,Truck_Small,3.18,Cancelled
+ORD1195,2025-02-18,Bangalore_WH1,3.61,25.5,Bike,0.09,On Time
+ORD1196,2025-02-19,Bangalore_WH1,11.91,41.7,Bike,0.3,Cancelled
+ORD1197,2025-02-19,Chennai_WH1,5.9,26.5,Bike,0.15,On Time
+ORD1198,2025-02-19,Coimbatore_WH1,1.81,31.3,Bike,0.05,On Time
+ORD1199,2025-02-19,Hyderabad_WH1,14.57,44.4,Bike,0.36,On Time
+ORD1200,2025-02-20,Chennai_WH2,13.37,59.4,Bike,0.33,On Time
+ORD1201,2025-02-20,Bangalore_WH1,13.99,71.1,Bike,0.35,On Time
+ORD1202,2025-02-20,Chennai_WH1,14.93,56.7,Bike,0.37,On Time
+ORD1203,2025-02-20,Chennai_WH1,11.09,47.2,Mini_Van,0.79,Delayed
+ORD1204,2025-02-21,Hyderabad_WH1,6.55,12.3,Bike,0.16,On Time
+ORD1205,2025-02-21,Bangalore_WH1,31.54,84.8,Mini_Van,2.25,On Time
+ORD1206,2025-02-21,Coimbatore_WH1,29.36,95.5,Mini_Van,2.1,Delayed
+ORD1207,2025-02-21,Bangalore_WH1,20.77,36.6,Truck_Small,2.6,On Time
+ORD1208,2025-02-22,Hyderabad_WH1,12.42,44.8,Bike,0.31,On Time
+ORD1209,2025-02-22,Hyderabad_WH1,25.71,99.6,Truck_Small,3.21,On Time
+ORD1210,2025-02-22,Bangalore_WH1,12.83,45.3,Mini_Van,0.92,On Time
+ORD1211,2025-02-22,Hyderabad_WH1,8.52,53.7,Bike,0.21,On Time
+ORD1212,2025-02-23,Bangalore_WH1,97.08,309.0,Truck_Large,19.42,Delayed
+ORD1213,2025-02-23,Chennai_WH2,95.41,225.1,Truck_Large,19.08,On Time
+ORD1214,2025-02-23,Bangalore_WH1,2.28,33.2,Bike,0.06,On Time
+ORD1215,2025-02-23,Bangalore_WH1,13.28,76.7,Bike,0.33,Delayed
+ORD1216,2025-02-24,Hyderabad_WH1,28.59,108.0,Truck_Small,3.57,Delayed
+ORD1217,2025-02-24,Hyderabad_WH1,19.07,59.4,Truck_Small,2.38,On Time
+ORD1218,2025-02-24,Chennai_WH1,13.44,52.4,Bike,0.34,On Time
+ORD1219,2025-02-24,Chennai_WH1,14.38,64.5,Bike,0.36,On Time
+ORD1220,2025-02-25,Chennai_WH2,35.17,86.7,Mini_Van,2.51,On Time
+ORD1221,2025-02-25,Chennai_WH1,33.33,70.0,Mini_Van,2.38,On Time
+ORD1222,2025-02-25,Bangalore_WH1,27.93,74.3,Mini_Van,2.0,On Time
+ORD1223,2025-02-25,Hyderabad_WH1,24.28,57.1,Mini_Van,1.73,Cancelled
+ORD1224,2025-02-26,Chennai_WH1,8.04,35.8,Mini_Van,0.57,On Time
+ORD1225,2025-02-26,Chennai_WH1,38.59,101.2,Truck_Small,4.82,On Time
+ORD1226,2025-02-26,Chennai_WH2,6.22,38.4,Bike,0.16,On Time
+ORD1227,2025-02-26,Chennai_WH2,4.64,35.2,Bike,0.12,On Time
+ORD1228,2025-02-27,Bangalore_WH1,60.64,133.2,Truck_Small,7.58,On Time
+ORD1229,2025-02-27,Hyderabad_WH1,84.46,205.2,Truck_Large,16.89,On Time
+ORD1230,2025-02-27,Chennai_WH2,7.84,67.6,Mini_Van,0.56,Delayed
+ORD1231,2025-02-27,Chennai_WH1,12.71,49.3,Mini_Van,0.91,On Time
+ORD1232,2025-02-28,Hyderabad_WH1,10.57,54.5,Bike,0.26,On Time
+ORD1233,2025-02-28,Hyderabad_WH1,7.66,24.6,Mini_Van,0.55,On Time
+ORD1234,2025-02-28,Chennai_WH1,34.79,76.0,Mini_Van,2.48,On Time
+ORD1235,2025-02-28,Chennai_WH2,7.93,36.7,Bike,0.2,On Time
+ORD1236,2025-03-01,Chennai_WH1,7.73,36.4,Bike,0.19,On Time
+ORD1237,2025-03-01,Hyderabad_WH1,25.73,54.0,Mini_Van,1.84,On Time
+ORD1238,2025-03-01,Coimbatore_WH1,12.55,45.7,Bike,0.31,On Time
+ORD1239,2025-03-01,Coimbatore_WH1,5.87,63.3,Bike,0.15,Delayed
+ORD1240,2025-03-02,Bangalore_WH1,10.49,44.1,Bike,0.26,Cancelled
+ORD1241,2025-03-02,Chennai_WH1,8.92,54.3,Bike,0.22,Delayed
+ORD1242,2025-03-02,Chennai_WH1,4.74,42.5,Bike,,Delayed
+ORD1243,2025-03-02,Bangalore_WH1,134.22,287.3,Truck_Large,26.84,On Time
+ORD1244,2025-03-03,Bangalore_WH1,32.91,78.3,Mini_Van,2.35,Cancelled
+ORD1245,2025-03-03,Bangalore_WH1,56.09,127.7,Truck_Small,7.01,On Time
+ORD1246,2025-03-03,Hyderabad_WH1,69.54,149.0,Truck_Small,8.69,Cancelled
+ORD1247,2025-03-03,Chennai_WH1,35.36,79.3,Mini_Van,2.53,Cancelled
+ORD1248,2025-03-04,Hyderabad_WH1,10.92,84.6,Bike,0.27,Delayed
+ORD1249,2025-03-04,Bangalore_WH1,34.3,84.2,Mini_Van,2.45,Cancelled
+ORD1250,2025-03-04,Chennai_WH1,29.41,62.8,Mini_Van,2.1,On Time
+ORD1251,2025-03-04,Hyderabad_WH1,57.61,147.5,Truck_Small,7.2,On Time
+ORD1252,2025-03-05,Hyderabad_WH1,26.65,57.0,Mini_Van,1.9,On Time
+ORD1253,2025-03-05,Bangalore_WH1,11.54,35.2,Bike,0.29,On Time
+ORD1254,2025-03-05,Chennai_WH1,3.22,17.2,Bike,0.08,On Time
+ORD1255,2025-03-05,Bangalore_WH1,35.83,69.7,Mini_Van,2.56,On Time
+ORD1256,2025-03-06,Chennai_WH1,35.51,69.9,Mini_Van,2.54,Cancelled
+ORD1257,2025-03-06,Coimbatore_WH1,6.02,28.5,Mini_Van,0.43,On Time
+ORD1258,2025-03-06,Chennai_WH2,33.9,139.9,Mini_Van,2.42,Delayed
+ORD1259,2025-03-06,Chennai_WH2,36.75,179.2,Truck_Large,7.35,Delayed
+ORD1260,2025-03-07,Chennai_WH2,16.73,52.4,Mini_Van,1.2,Cancelled
+ORD1261,2025-03-07,Bangalore_WH1,11.41,52.8,Bike,0.29,Cancelled
+ORD1262,2025-03-07,Coimbatore_WH1,3.25,44.0,Bike,0.08,On Time
+ORD1263,2025-03-07,Chennai_WH1,12.45,35.9,Bike,0.31,Cancelled
+ORD1264,2025-03-08,Hyderabad_WH1,12.65,29.3,Bike,0.32,Delayed
+ORD1265,2025-03-08,Chennai_WH1,8.1,49.3,Bike,0.2,On Time
+ORD1266,2025-03-08,Hyderabad_WH1,1.09,5.0,Bike,0.03,On Time
+ORD1267,2025-03-08,Chennai_WH1,5.02,35.5,Bike,0.13,Delayed
+ORD1268,2025-03-09,Coimbatore_WH1,9.64,33.9,Bike,0.24,On Time
+ORD1269,2025-03-09,Hyderabad_WH1,147.55,329.2,Truck_Large,29.51,On Time
+ORD1270,2025-03-09,Bangalore_WH1,9.85,47.8,Bike,0.25,On Time
+ORD1271,2025-03-09,Chennai_WH1,14.09,54.3,Mini_Van,1.01,On Time
+ORD1272,2025-03-10,Chennai_WH1,27.19,71.9,Mini_Van,1.94,On Time
+ORD1273,2025-03-10,Hyderabad_WH1,90.2,280.9,Truck_Large,18.04,Delayed
+ORD1274,2025-03-10,Bangalore_WH1,11.92,39.7,Bike,0.3,On Time
+ORD1275,2025-03-10,Bangalore_WH1,8.74,36.0,Mini_Van,0.62,On Time
+ORD1276,2025-03-11,Coimbatore_WH1,118.93,261.5,Truck_Large,23.79,On Time
+ORD1277,2025-03-11,Bangalore_WH1,90.36,213.3,Truck_Large,18.07,On Time
+ORD1278,2025-03-11,Bangalore_WH1,77.41,182.8,Truck_Small,9.68,Cancelled
+ORD1279,2025-03-11,Bangalore_WH1,5.79,42.8,Bike,0.14,On Time
+ORD1280,2025-03-12,Chennai_WH2,9.86,46.8,Bike,0.25,On Time
+ORD1281,2025-03-12,Coimbatore_WH1,75.24,158.9,Truck_Small,9.4,On Time
+ORD1282,2025-03-12,Chennai_WH1,33.33,107.5,Truck_Large,6.67,On Time
+ORD1283,2025-03-12,Hyderabad_WH1,,124.7,Mini_Van,2.7,Delayed
+ORD1284,2025-03-13,Chennai_WH1,29.08,127.4,Mini_Van,2.08,Delayed
+ORD1285,2025-03-13,Coimbatore_WH1,1.95,7.2,Bike,0.05,On Time
+ORD1286,2025-03-13,Hyderabad_WH1,31.07,81.3,Truck_Small,3.88,On Time
+ORD1287,2025-03-13,Coimbatore_WH1,10.91,30.1,Bike,0.27,On Time
+ORD1288,2025-03-14,Bangalore_WH1,1.94,18.4,Bike,0.05,On Time
+ORD1289,2025-03-14,Hyderabad_WH1,25.38,68.4,Mini_Van,1.81,On Time
+ORD1290,2025-03-14,Bangalore_WH1,17.11,40.4,Mini_Van,1.22,On Time
+ORD1291,2025-03-14,Chennai_WH1,9.69,34.1,Bike,0.24,On Time
+ORD1292,2025-03-15,Chennai_WH1,1.64,28.0,Bike,0.04,On Time
+ORD1293,2025-03-15,Hyderabad_WH1,35.5,135.1,Mini_Van,2.54,Delayed
+ORD1294,2025-03-15,Hyderabad_WH1,14.63,48.9,Bike,0.37,Cancelled
+ORD1295,2025-03-15,Coimbatore_WH1,38.91,92.4,Mini_Van,2.78,On Time
+ORD1296,2025-03-16,Coimbatore_WH1,11.5,53.4,Bike,0.29,Delayed
+ORD1297,2025-03-16,Bangalore_WH1,9.55,49.4,Mini_Van,0.68,On Time
+ORD1298,2025-03-16,Hyderabad_WH1,31.54,84.5,Mini_Van,2.25,On Time
+ORD1299,2025-03-16,Chennai_WH1,1.34,15.3,Bike,0.03,Delayed
+ORD1300,2025-03-17,Coimbatore_WH1,1.31,48.6,Bike,0.03,Delayed
+ORD1301,2025-03-17,Coimbatore_WH1,5.53,25.5,Bike,0.14,Cancelled
+ORD1302,2025-03-17,Chennai_WH1,7.84,53.6,Bike,0.2,On Time
+ORD1303,2025-03-17,Coimbatore_WH1,120.15,283.2,Truck_Large,24.03,On Time
+ORD1304,2025-03-18,Bangalore_WH1,10.57,98.7,Bike,0.26,Delayed
+ORD1305,2025-03-18,Hyderabad_WH1,41.21,112.2,Truck_Small,5.15,On Time
+ORD1306,2025-03-18,Chennai_WH1,4.83,33.7,Bike,0.12,On Time
+ORD1307,2025-03-18,Hyderabad_WH1,79.8,163.8,Truck_Small,9.98,On Time
+ORD1308,2025-03-19,Coimbatore_WH1,39.83,106.1,Truck_Small,4.98,On Time
+ORD1309,2025-03-19,Coimbatore_WH1,20.8,58.5,Mini_Van,1.49,On Time
+ORD1310,2025-03-19,Chennai_WH1,10.73,56.8,Mini_Van,0.77,On Time
+ORD1311,2025-03-19,Bangalore_WH1,32.82,110.6,Mini_Van,2.34,Delayed
+ORD1312,2025-03-20,Chennai_WH2,10.71,47.3,Bike,0.27,On Time
+ORD1313,2025-03-20,Chennai_WH1,48.7,118.2,Truck_Large,9.74,On Time
+ORD1314,2025-03-20,Chennai_WH2,15.77,48.8,Truck_Small,1.97,On Time
+ORD1315,2025-03-20,Chennai_WH2,108.46,236.0,Truck_Large,21.69,On Time
+ORD1316,2025-03-21,Bangalore_WH1,10.16,54.7,Bike,0.25,On Time
+ORD1317,2025-03-21,Chennai_WH2,29.13,65.8,Truck_Small,3.64,On Time
+ORD1318,2025-03-21,Chennai_WH2,143.61,493.7,Truck_Large,28.72,Delayed
+ORD1319,2025-03-21,Bangalore_WH1,3.11,30.2,Bike,0.08,On Time
+ORD1320,2025-03-22,Chennai_WH2,7.05,42.3,Bike,0.18,Cancelled
+ORD1321,2025-03-22,Chennai_WH2,76.05,177.6,Truck_Small,9.51,On Time
+ORD1322,2025-03-22,Chennai_WH2,19.69,63.3,Mini_Van,1.41,On Time
+ORD1323,2025-03-22,Chennai_WH1,54.7,114.2,Truck_Small,6.84,On Time
+ORD1324,2025-03-23,Chennai_WH1,6.57,16.9,Bike,0.16,On Time
+ORD1325,2025-03-23,Chennai_WH1,29.2,147.2,Truck_Small,3.65,Delayed
+ORD1326,2025-03-23,Bangalore_WH1,14.78,49.8,Bike,0.37,On Time
+ORD1327,2025-03-23,Coimbatore_WH1,6.73,38.7,Bike,0.17,On Time
+ORD1328,2025-03-24,Chennai_WH2,13.52,107.0,Bike,0.34,Delayed
+ORD1329,2025-03-24,Chennai_WH2,26.1,83.6,Truck_Small,3.26,Cancelled
+ORD1330,2025-03-24,Bangalore_WH1,24.92,109.8,Truck_Small,3.12,Delayed
+ORD1331,2025-03-24,Chennai_WH2,6.09,46.4,Mini_Van,0.44,On Time
+ORD1332,2025-03-25,Chennai_WH1,27.81,109.4,Mini_Van,1.99,Delayed
+ORD1333,2025-03-25,Coimbatore_WH1,67.91,168.5,Truck_Large,13.58,On Time
+ORD1334,2025-03-25,Hyderabad_WH1,35.25,77.0,Mini_Van,2.52,On Time
+ORD1335,2025-03-25,Chennai_WH2,43.12,114.2,Truck_Small,5.39,On Time
+ORD1336,2025-03-26,Chennai_WH1,38.89,97.8,Mini_Van,2.78,On Time
+ORD1337,2025-03-26,Hyderabad_WH1,11.49,49.7,Mini_Van,0.82,On Time
+ORD1338,2025-03-26,Coimbatore_WH1,35.4,91.4,Mini_Van,2.53,On Time
+ORD1339,2025-03-26,Hyderabad_WH1,11.87,86.4,Bike,0.3,Delayed
+ORD1340,2025-03-27,Chennai_WH1,63.96,153.3,Truck_Small,8.0,On Time
+ORD1341,2025-03-27,Hyderabad_WH1,34.57,71.2,Mini_Van,2.47,On Time
+ORD1342,2025-03-27,Bangalore_WH1,11.65,36.0,Bike,0.29,On Time
+ORD1343,2025-03-27,Hyderabad_WH1,101.41,223.2,Truck_Large,20.28,Cancelled
+ORD1344,2025-03-28,Chennai_WH2,9.59,50.3,Mini_Van,0.68,On Time
+ORD1345,2025-03-28,Chennai_WH2,6.14,23.7,Mini_Van,0.44,On Time
+ORD1346,2025-03-28,Bangalore_WH1,139.71,450.3,Truck_Large,27.94,Delayed
+ORD1347,2025-03-28,Chennai_WH1,26.58,116.7,Mini_Van,1.9,Delayed
+ORD1348,2025-03-29,Chennai_WH2,12.15,49.1,Bike,0.3,On Time
+ORD1349,2025-03-29,Coimbatore_WH1,82.6,196.9,Truck_Large,16.52,On Time
+ORD1350,2025-03-29,Chennai_WH2,9.11,68.6,Mini_Van,0.65,Delayed
+ORD1351,2025-03-29,Chennai_WH2,2.75,14.8,Bike,0.07,On Time
+ORD1352,2025-03-30,Chennai_WH1,10.6,51.9,Bike,0.26,On Time
+ORD1353,2025-03-30,Hyderabad_WH1,40.12,129.9,Truck_Small,5.01,Delayed
+ORD1354,2025-03-30,Chennai_WH2,12.02,31.7,Mini_Van,0.86,On Time
+ORD1355,2025-03-30,Bangalore_WH1,22.21,61.4,Mini_Van,1.59,On Time
+ORD1356,2025-03-31,Hyderabad_WH1,28.35,87.6,Truck_Large,5.67,On Time
+ORD1357,2025-03-31,Coimbatore_WH1,50.74,130.1,Truck_Small,6.34,On Time
+ORD1358,2025-03-31,Chennai_WH1,4.77,33.6,Bike,0.12,On Time
+ORD1359,2025-03-31,Coimbatore_WH1,12.17,71.2,Bike,0.3,Delayed
+ORD1360,2025-04-01,Hyderabad_WH1,5.35,32.5,Bike,0.13,On Time
+ORD1361,2025-04-01,Hyderabad_WH1,41.87,89.6,Truck_Small,5.23,On Time
+ORD1362,2025-04-01,Hyderabad_WH1,1.16,29.5,Bike,0.03,On Time
+ORD1363,2025-04-01,Coimbatore_WH1,7.54,29.8,Mini_Van,0.54,On Time
+ORD1364,2025-04-02,Hyderabad_WH1,37.47,88.0,Truck_Small,4.68,Cancelled
+ORD1365,2025-04-02,Coimbatore_WH1,82.39,195.6,Truck_Large,16.48,On Time
+ORD1366,2025-04-02,Hyderabad_WH1,9.4,62.2,Bike,0.24,On Time
+ORD1367,2025-04-02,Bangalore_WH1,30.42,80.1,Truck_Small,3.8,On Time
+ORD1368,2025-04-03,Hyderabad_WH1,10.73,52.0,Bike,0.27,On Time
+ORD1369,2025-04-03,Coimbatore_WH1,70.21,166.8,Truck_Small,8.78,On Time
+ORD1370,2025-04-03,Chennai_WH2,11.92,70.6,Bike,0.3,Delayed
+ORD1371,2025-04-03,Hyderabad_WH1,6.39,42.3,Mini_Van,0.46,Cancelled
+ORD1372,2025-04-04,Chennai_WH2,43.64,111.9,Truck_Small,5.46,On Time
+ORD1373,2025-04-04,Bangalore_WH1,2.47,21.1,Bike,0.06,On Time
+ORD1374,2025-04-04,Chennai_WH1,4.39,49.1,Bike,0.11,Delayed
+ORD1375,2025-04-04,Bangalore_WH1,79.07,244.9,Truck_Small,9.88,Delayed
+ORD1376,2025-04-05,Hyderabad_WH1,19.97,60.9,Truck_Small,2.5,On Time
+ORD1377,2025-04-05,Chennai_WH2,22.46,61.6,Mini_Van,1.6,On Time
+ORD1378,2025-04-05,Chennai_WH2,53.27,118.6,Truck_Small,6.66,On Time
+ORD1379,2025-04-05,Coimbatore_WH1,29.59,68.4,Mini_Van,2.11,Delayed
+ORD1380,2025-04-06,Chennai_WH2,8.84,68.4,Bike,0.22,Delayed
+ORD1381,2025-04-06,Coimbatore_WH1,1.14,15.1,Bike,0.03,On Time
+ORD1382,2025-04-06,Chennai_WH1,5.57,24.5,Bike,0.14,On Time
+ORD1383,2025-04-06,Hyderabad_WH1,87.3,366.3,Truck_Large,17.46,Delayed
+ORD1384,2025-04-07,Coimbatore_WH1,8.08,63.3,Mini_Van,0.58,Delayed
+ORD1385,2025-04-07,Chennai_WH1,17.27,61.9,Mini_Van,1.23,Cancelled
+ORD1386,2025-04-07,Chennai_WH2,6.16,28.3,Mini_Van,0.44,Delayed
+ORD1387,2025-04-07,Chennai_WH2,30.22,96.1,Truck_Large,6.04,On Time
+ORD1388,2025-04-08,Chennai_WH1,6.56,47.4,Bike,0.16,On Time
+ORD1389,2025-04-08,Chennai_WH2,9.65,38.2,Mini_Van,0.69,On Time
+ORD1390,2025-04-08,Chennai_WH1,24.86,71.2,Mini_Van,1.78,On Time
+ORD1391,2025-04-08,Coimbatore_WH1,29.13,65.8,Mini_Van,2.08,On Time
+ORD1392,2025-04-09,Coimbatore_WH1,12.21,70.0,Bike,0.31,Delayed
+ORD1393,2025-04-09,Chennai_WH1,46.02,121.6,Truck_Large,9.2,On Time
+ORD1394,2025-04-09,Coimbatore_WH1,41.77,188.6,Truck_Large,8.35,Delayed
+ORD1395,2025-04-09,Coimbatore_WH1,8.66,35.0,Mini_Van,0.62,On Time
+ORD1396,2025-04-10,Coimbatore_WH1,54.55,122.8,Truck_Small,6.82,Cancelled
+ORD1397,2025-04-10,Bangalore_WH1,111.84,249.2,Truck_Large,22.37,On Time
+ORD1398,2025-04-10,Hyderabad_WH1,12.21,51.3,Truck_Small,1.53,On Time
+ORD1399,2025-04-10,Chennai_WH2,14.11,51.7,Bike,0.35,On Time
+ORD1400,2025-04-11,Bangalore_WH1,6.82,50.7,Mini_Van,0.49,On Time
+ORD1401,2025-04-11,Coimbatore_WH1,23.95,110.9,Mini_Van,1.71,Delayed
+ORD1402,2025-04-11,Chennai_WH1,29.82,122.1,Mini_Van,2.13,Delayed
+ORD1403,2025-04-11,Coimbatore_WH1,70.97,165.4,Truck_Small,8.87,On Time
+ORD1404,2025-04-12,Hyderabad_WH1,112.83,245.6,Truck_Large,22.57,On Time
+ORD1405,2025-04-12,Coimbatore_WH1,124.22,266.0,Truck_Large,24.84,On Time
+ORD1406,2025-04-12,Chennai_WH1,16.88,27.9,Mini_Van,1.21,On Time
+ORD1407,2025-04-12,Hyderabad_WH1,12.41,56.7,Bike,0.31,Cancelled
+ORD1408,2025-04-13,Coimbatore_WH1,30.41,130.4,Truck_Large,6.08,Delayed
+ORD1409,2025-04-13,Hyderabad_WH1,72.64,195.1,Truck_Small,9.08,On Time
+ORD1410,2025-04-13,Chennai_WH2,8.67,66.1,Bike,0.22,Delayed
+ORD1411,2025-04-13,Chennai_WH2,126.25,289.0,Truck_Large,25.25,On Time
+ORD1412,2025-04-14,Coimbatore_WH1,78.8,202.8,Truck_Large,15.76,Cancelled
+ORD1413,2025-04-14,Hyderabad_WH1,27.53,76.0,Mini_Van,1.97,On Time
+ORD1414,2025-04-14,Chennai_WH1,23.42,118.7,Mini_Van,1.67,Delayed
+ORD1415,2025-04-14,Coimbatore_WH1,30.61,118.6,Mini_Van,2.19,Delayed
+ORD1416,2025-04-15,Chennai_WH2,2.14,33.1,Bike,0.05,On Time
+ORD1417,2025-04-15,Chennai_WH2,1.84,43.7,Bike,0.05,Delayed
+ORD1418,2025-04-15,Coimbatore_WH1,27.3,90.7,Truck_Small,3.41,On Time
+ORD1419,2025-04-15,Hyderabad_WH1,3.23,30.9,Bike,0.08,On Time
+ORD1420,2025-04-16,Chennai_WH2,13.2,47.6,Bike,0.33,On Time
+ORD1421,2025-04-16,Hyderabad_WH1,12.67,43.1,Mini_Van,0.9,Cancelled
+ORD1422,2025-04-16,Chennai_WH2,39.16,147.4,Mini_Van,2.8,Delayed
+ORD1423,2025-04-16,Chennai_WH2,63.8,245.5,Truck_Large,12.76,Delayed
+ORD1424,2025-04-17,Bangalore_WH1,3.55,49.9,Bike,0.09,Delayed
+ORD1425,2025-04-17,Chennai_WH2,12.06,47.4,Bike,0.3,On Time
+ORD1426,2025-04-17,Chennai_WH1,56.11,132.4,Truck_Small,7.01,Cancelled
+ORD1427,2025-04-17,Coimbatore_WH1,22.44,71.1,Mini_Van,1.6,On Time
+ORD1428,2025-04-18,Coimbatore_WH1,8.78,26.5,Bike,0.22,On Time
+ORD1429,2025-04-18,Hyderabad_WH1,30.17,79.5,Mini_Van,2.16,On Time
+ORD1430,2025-04-18,Chennai_WH2,4.2,43.4,Bike,0.11,Delayed
+ORD1431,2025-04-18,Chennai_WH1,14.95,67.4,Bike,0.37,Delayed
+ORD1432,2025-04-19,Hyderabad_WH1,39.12,87.1,Mini_Van,2.79,On Time
+ORD1433,2025-04-19,Bangalore_WH1,27.76,74.0,Mini_Van,1.98,On Time
+ORD1434,2025-04-19,Hyderabad_WH1,45.94,216.9,Truck_Large,9.19,Delayed
+ORD1435,2025-04-19,Hyderabad_WH1,,80.2,Mini_Van,2.06,On Time
+ORD1436,2025-04-20,Chennai_WH2,7.53,27.4,Mini_Van,0.54,Delayed
+ORD1437,2025-04-20,Bangalore_WH1,6.07,51.1,Mini_Van,0.43,Cancelled
+ORD1438,2025-04-20,Hyderabad_WH1,4.61,36.3,Bike,0.12,On Time
+ORD1439,2025-04-20,Chennai_WH1,42.38,117.0,Truck_Small,5.3,On Time
+ORD1440,2025-04-21,Chennai_WH1,13.16,92.1,Bike,0.33,Delayed
+ORD1441,2025-04-21,Coimbatore_WH1,114.53,359.6,Truck_Large,22.91,Delayed
+ORD1442,2025-04-21,Bangalore_WH1,11.4,43.6,Bike,0.29,On Time
+ORD1443,2025-04-21,Bangalore_WH1,19.89,72.4,Mini_Van,1.42,Cancelled
+ORD1444,2025-04-22,Coimbatore_WH1,5.84,48.8,Bike,0.15,On Time
+ORD1445,2025-04-22,Hyderabad_WH1,68.24,185.8,Truck_Large,13.65,On Time
+ORD1446,2025-04-22,Bangalore_WH1,39.57,127.2,Mini_Van,2.83,Delayed
+ORD1447,2025-04-22,Chennai_WH1,6.4,34.1,Mini_Van,,Delayed
+ORD1448,2025-04-23,Chennai_WH1,13.14,48.4,Bike,0.33,On Time
+ORD1449,2025-04-23,Chennai_WH2,50.51,164.8,Truck_Small,6.31,Delayed
+ORD1450,2025-04-23,Bangalore_WH1,7.14,45.0,Bike,0.18,On Time
+ORD1451,2025-04-23,Hyderabad_WH1,114.28,261.4,Truck_Large,22.86,On Time
+ORD1452,2025-04-24,Coimbatore_WH1,7.81,35.2,Bike,0.2,On Time
+ORD1453,2025-04-24,Coimbatore_WH1,13.23,65.7,Bike,0.33,Delayed
+ORD1454,2025-04-24,Hyderabad_WH1,13.61,58.3,Bike,0.34,On Time
+ORD1455,2025-04-24,Chennai_WH2,19.76,56.9,Mini_Van,1.41,On Time
+ORD1456,2025-04-25,Coimbatore_WH1,14.69,45.4,Mini_Van,,On Time
+ORD1457,2025-04-25,Bangalore_WH1,9.29,26.7,Bike,0.23,Delayed
+ORD1458,2025-04-25,Chennai_WH2,73.87,174.1,Truck_Small,9.23,On Time
+ORD1459,2025-04-25,Bangalore_WH1,12.37,98.0,Mini_Van,0.88,Delayed
+ORD1460,2025-04-26,Chennai_WH1,26.8,80.7,Mini_Van,1.91,On Time
+ORD1461,2025-04-26,Chennai_WH2,27.1,71.9,Mini_Van,1.94,On Time
+ORD1462,2025-04-26,Coimbatore_WH1,30.66,61.8,Mini_Van,2.19,On Time
+ORD1463,2025-04-26,Chennai_WH2,9.6,46.1,Mini_Van,0.69,Delayed
+ORD1464,2025-04-27,Chennai_WH2,11.02,75.2,Bike,0.28,Delayed
+ORD1465,2025-04-27,Chennai_WH2,13.73,54.1,Bike,0.34,On Time
+ORD1466,2025-04-27,Chennai_WH2,43.36,126.0,Truck_Large,8.67,On Time
+ORD1467,2025-04-27,Bangalore_WH1,50.88,146.7,Truck_Large,10.18,On Time
+ORD1468,2025-04-28,Chennai_WH1,39.0,77.3,Mini_Van,2.79,On Time
+ORD1469,2025-04-28,Hyderabad_WH1,3.53,34.5,Bike,0.09,On Time
+ORD1470,2025-04-28,Chennai_WH2,34.9,71.8,Mini_Van,2.49,On Time
+ORD1471,2025-04-28,Coimbatore_WH1,22.23,51.7,Mini_Van,1.59,On Time
+ORD1472,2025-04-29,Chennai_WH2,4.46,31.4,Bike,0.11,On Time
+ORD1473,2025-04-29,Coimbatore_WH1,13.19,63.1,Bike,0.33,On Time
+ORD1474,2025-04-29,Bangalore_WH1,41.17,151.4,Truck_Small,5.15,Delayed
+ORD1475,2025-04-29,Coimbatore_WH1,46.04,105.2,Truck_Small,5.76,On Time
+ORD1476,2025-04-30,Hyderabad_WH1,6.03,50.2,Bike,0.15,On Time
+ORD1477,2025-04-30,Chennai_WH1,9.3,67.8,Bike,0.23,Delayed
+ORD1478,2025-04-30,Coimbatore_WH1,3.29,31.6,Bike,0.08,On Time
+ORD1479,2025-04-30,Coimbatore_WH1,37.38,81.5,Truck_Small,4.67,On Time
+ORD1480,2025-05-01,Chennai_WH1,14.57,31.6,Bike,0.36,On Time
+ORD1481,2025-05-01,Hyderabad_WH1,4.61,35.3,Bike,0.12,On Time
+ORD1482,2025-05-01,Chennai_WH2,55.97,143.9,Truck_Small,7.0,On Time
+ORD1483,2025-05-01,Coimbatore_WH1,5.55,26.6,Bike,0.14,On Time
+ORD1484,2025-05-02,Chennai_WH1,64.14,143.0,Truck_Small,8.02,Cancelled
+ORD1485,2025-05-02,Bangalore_WH1,2.83,40.1,Bike,0.07,On Time
+ORD1486,2025-05-02,Chennai_WH1,14.58,32.7,Bike,0.36,On Time
+ORD1487,2025-05-02,Bangalore_WH1,7.35,43.4,Bike,0.18,On Time
+ORD1488,2025-05-03,Hyderabad_WH1,26.52,82.9,Truck_Small,3.32,On Time
+ORD1489,2025-05-03,Chennai_WH2,29.55,79.9,Truck_Large,5.91,On Time
+ORD1490,2025-05-03,Chennai_WH1,21.88,100.7,Truck_Small,2.74,Delayed
+ORD1491,2025-05-03,Coimbatore_WH1,23.19,39.2,Mini_Van,1.66,On Time
+ORD1492,2025-05-04,Hyderabad_WH1,33.59,95.7,Truck_Small,4.2,On Time
+ORD1493,2025-05-04,Chennai_WH1,12.6,56.6,Bike,0.32,On Time
+ORD1494,2025-05-04,Coimbatore_WH1,7.03,28.8,Bike,0.18,On Time
+ORD1495,2025-05-04,Chennai_WH1,52.33,134.3,Truck_Large,10.47,Cancelled
+ORD1496,2025-05-05,Bangalore_WH1,9.64,42.3,Bike,,On Time
+ORD1497,2025-05-05,Chennai_WH1,10.89,45.0,Bike,0.27,On Time
+ORD1498,2025-05-05,Chennai_WH1,3.34,32.8,Bike,0.08,On Time
+ORD1499,2025-05-05,Chennai_WH1,3.35,42.6,Bike,0.08,Cancelled
+ORD1304,2025-03-18,Bangalore_WH1,10.57,98.7,Bike,0.26,Delayed
+ORD1340,2025-03-27,Chennai_WH1,63.96,153.3,Truck_Small,8.0,On Time
+ORD1047,2025-01-12,Coimbatore_WH1,9.36,61.2,Bike,0.23,Delayed
